@@ -1,7 +1,7 @@
 <h1 align="center">XOR Doubly Linked list</h1>
 <br>
 
-- Okay, so what exactly is an XOR Doubly Linked List?
+- Okay, so what exactly is an _XOR Doubly Linked List?_
 
 <h3 align = "left"> Well, first let's understand what a Doubly Linked List is, and what is XOR </h3>
 <br>
@@ -16,7 +16,7 @@
 And that's all you need to know about it for now. <br>
 
 <h3 align = "left"> So how does this work? </h3>
-- Well, this list has a special property:<pre>previous XOR next = stocked value
+-  Well, this list has a special property:<pre>previous XOR next = stocked value
 stocked value XOR previous = next
 stocked value XOR next = previous 
 </pre>
@@ -24,6 +24,7 @@ stocked value XOR next = previous
 - So, keeping this in mind, we now understand how to create the links between the elements.
 
 <h2 align = "left"> How to run the file </h2>
-- Download the repository to your local machine, then open it with your favorite text editor/ IDE<br> 
-- Then, the main file is named "DLLxorTester.c" <<-- _that's the file you want to run_ <br>
+- Download the repository to your local machine, then open it with your favorite *text editor*/ IDE <br> 
+<p>- Then, the main file is named "DLLxorTester.c" <<-- that's the file you want to run <br></p>
 - The rest is up to you!
+
